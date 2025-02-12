@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.container {
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.section-one {
+    background-color: black;
+    color: white;
+    padding: 18px;
+}
+
+.section-two--card-one {
+    background-color: white;
+    border: solid black 2px;
+    display: inline-block;
+    width: 200px;
+}
+
+.section-two--card-one__button {
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+
+.section-two {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.section-three {
+    
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+.section-three__card--one {
+    display: flex;
+    justify-content: center;
+}
+
+.section-three__button {
+    width: 400px;
+    background-color: yellow;
+    padding: 3px;
+}
